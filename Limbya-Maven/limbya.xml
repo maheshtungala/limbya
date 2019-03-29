@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="limbya">
+<test name="limbya">
+ <classes>
+ 
+   <class name="myPack.Limbya"/>
+   
+ </classes>
+</test>
+</suite>
